@@ -1,3 +1,7 @@
+![SQL](https://img.shields.io/badge/SQL-Analysis-orange?logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database--Design-blue?logo=postgresql)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # 📚 Library Management System (SQL)
 
 ## 🧭 Overview
